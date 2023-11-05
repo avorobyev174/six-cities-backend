@@ -1,0 +1,13 @@
+# Отзывы
+### Получить список отзывов
+GET http://localhost:5001/reviews/6533b70719c994f5a07a4b7e HTTP/1.1
+Content-Type: application/json
+### Создание отзыва
+POST http://localhost:5001/reviews/6544f0440e50272e1c12f73d HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InRlc3QyQGdtYWlsLmNvbSIsIm5hbWUiOiJQaXRlciIsImlkIjoiNjU0NGYwNDQwZTUwMjcyZTFjMTJmNjk0IiwiaWF0IjoxNjk5MDE3ODAyLCJleHAiOjE2OTkxOTA2MDJ9.xfuQR7NISQMGNkDzS-oURROx23oNkl3-movDPOlWDoI
+Content-Type: application/json
+
+{
+  "comment": "A place!!",
+  "rating": 5
+}

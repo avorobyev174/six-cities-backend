@@ -1,0 +1,142 @@
+{
+  "api": {
+    "titles": [
+      "Tile House",
+      "Nice, cozy, warm big bed apartment",
+      "House in countryside",
+      "Canal View Prinsengracht",
+      "The Joshua Tree House"
+    ],
+    "descriptions": [
+      "I am happy to welcome you to my apartment in the city center! Three words: location, cosy and chic!",
+      "Peaceful studio in the most wanted area in town. Quiet house Near of everything. Completely renovated. Lovely neighbourhood, lot of trendy shops, restaurants and bars in a walking distance.",
+      "This is a place for dreamers to reset, reflect, and create. Designed with a 'slow' pace in mind, our hope is that you enjoy every part of your stay; from making local coffee by drip in the morning, choosing the perfect record to put on as the sun sets.",
+      "Discover daily local life in city center, friendly neighborhood, clandestine casino, karaoke, old-style artisans, art gallery and artist studio downstairs.",
+      "Design interior in most sympathetic area! Completely renovated, well-equipped, cosy studio in idyllic, over 100 years old wooden house. Calm street, fast connection to center and airport."
+    ],
+    "cities": [
+      "Paris",
+      "Cologne",
+      "Brussels",
+      "Amsterdam",
+      "Hamburg",
+      "Dusseldorf"
+    ],
+    "previewImages": [
+      "11.jpg",
+      "12.jpg",
+      "13.jpg",
+      "14.jpg",
+      "15.jpg"
+    ],
+    "photos": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "7.jpg",
+      "8.jpg",
+      "9.jpg",
+      "10.jpg"
+    ],
+    "isPremium": [
+      "true",
+      "false"
+    ],
+    "isFavorite": [
+      "true",
+      "false"
+    ],
+    "types": [
+      "Apartment",
+      "House",
+      "Room",
+      "Hotel"
+    ],
+    "goods": [
+      "Breakfast",
+      "Air conditioning",
+      "Laptop friendly workspace",
+      "Baby seat",
+      "Washer",
+      "Towels",
+      "Fridge"
+    ],
+    "userType": [
+      "pro",
+      "regular"
+    ],
+    "users": [
+      "Angelina",
+      "Maria",
+      "Piter",
+      "Max",
+      "Julia"
+    ],
+    "emails": [
+      "test1@gmail.com",
+      "test2@gmail.com",
+      "test3@gmail.com",
+      "test4@gmail.com",
+      "test5@gmail.com"
+    ],
+    "avatars": [
+      "avatar-angelina.jpg"
+    ],
+    "locations": {
+        "Paris": [
+          "48.85661;2.352499",
+          "48.86661;2.359499",
+          "48.85861;2.353499",
+          "48.85361;2.355499",
+          "48.85161;2.341499"
+        ],
+        "Cologne": [
+          "50.928361;6.954974",
+          "50.932361;6.953974",
+          "50.928361;6.959174",
+          "50.933361;6.951974",
+          "50.931361;6.969974"
+        ],
+        "Amsterdam": [
+          "52.36454;4.887976",
+          "52.35454;4.877976",
+          "52.37154;4.891976",
+          "52.37754;4.895976",
+          "52.37954;4.899976"
+        ],
+        "Brussels": [
+          "50.846557;4.361697",
+          "50.836557;4.341697",
+          "50.841557;4.354697",
+          "50.848557;4.357697",
+          "50.842557;4.352697"
+        ],
+        "Hamburg": [
+          "53.550341;10.010654",
+          "53.560341;10.020654",
+          "53.570341;10.007654",
+          "53.555341;10.005654",
+          "53.558341;10.003654"
+        ],
+        "Dusseldorf": [
+          "51.226402;6.796314",
+          "51.235402;6.786314",
+          "51.215402;6.771314",
+          "51.229402;6.773314",
+          "51.221402;6.779314"
+        ]
+    },
+    "reviewTexts": [
+      "A quiet cozy and picturesque that hides behind a a river by the unique lightness of Amsterdam.",
+      "Bathed in the nature. Completely unplugged. Unforgettable.",
+      "We loved it so much, the house, the veiw, the location just great.. Highly reccomend :)",
+      "The room was spacious and clean. The pool looked nothing like the photos and desparately needs a clean. The sauna and spa were closed for lunar new year holiday.",
+      "Home is amazing. It's like staying in a museum. The rooms, furnishings and artworks are incredible. The views of My Vesuvius",
+      "I stayed here for one night and it was an unpleasant experience.",
+      "This villa is perfect in every way: the view on mountains and waterfalls, the hot tub and the villa itself. The evening here became a great continuation of our journeys over country."
+    ]
+  }
+}
